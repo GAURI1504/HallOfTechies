@@ -33,7 +33,6 @@ const data = [
     ],
   },
   {
-    {
     name: "Gauri Yadav",
     role: "Full Stack Developer",
     image: "https://github.com/GAURI1504.png",
