@@ -33,6 +33,17 @@ const data = [
     ],
   },
   {
+    {
+    name: "Gauri Yadav",
+    role: "Full Stack Developer",
+    image: "https://github.com/GAURI1504.png",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/GAURI1504",
+      "https://linkedin.com/in/www.linkedin.com/in/gauri-yadav-7aa10a1a6",
+      "https://twitter.com/GauriYa96958220",
+    ],
+  }
     name: "Palash Burad",
     role: "Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/36355091?v=4",
